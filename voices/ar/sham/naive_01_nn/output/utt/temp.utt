@@ -1,0 +1,963 @@
+<utt text="أِننَ ألحَمدَ لِللءهِ نَحمَدُهُ وَنَستَعئنُهُ وَنَستَغفِرُهُ وَنَسأَلُهُ ألخَيرَ كُللهُ وَنَعؤذُ بِهِ مِن شُرؤرِ أَنفُسِنء وَسَييِأءتِن أَعمءلِنء" status="OK" utterance_name="temp" processors_used=",word_splitter,segment_adder,word_vector_tagger,pause_predictor,phrase_maker,labelmaker,duration_predictor,dnn_labelmaker,acoustic_predictor" vsm_d1_PADDING="0.8797690059247404" vsm_d2_PADDING="0.08253053358410699" vsm_d3_PADDING="0.0699969398446259" vsm_d4_PADDING="0.006271958988139866" vsm_d5_PADDING="0.016665455248905343" vsm_d6_PADDING="0.011711578579443969" vsm_d7_PADDING="0.007694163289075995" vsm_d8_PADDING="0.007403503906851249" vsm_d9_PADDING="0.003751085265355949" vsm_d10_PADDING="0.0026602676382195523">
+  <phrase>
+    <token text="_END_" token_class="_END_" safetext="_END_" phrase_start="True" phrase_end="False"/>
+    <token text="أِننَ" token_class="word" safetext="_ARABICLETTERALEFWITHHAMZAABOVE__ARABICKASRA__ARABICLETTERNOON__ARABICLETTERNOON__ARABICFATHA_" vsm_d1="1.0680744362939754" vsm_d2="-0.16870695898289584" vsm_d3="0.045840509929899964" vsm_d4="0.005434441841836085" vsm_d5="-0.049740090490323116" vsm_d6="-0.012649848233106331" vsm_d7="-0.016879341761992125" vsm_d8="-0.00344417126916146" vsm_d9="-0.008974290465129004" vsm_d10="0.0007938040146813277" phrase_start="False" phrase_end="False">
+      <segment pronunciation="_ARABICLETTERALEFWITHHAMZAABOVE_">
+        <state start="0" end="5"/>
+        <state start="5" end="10"/>
+        <state start="10" end="20"/>
+        <state start="20" end="30"/>
+        <state start="30" end="35"/>
+      </segment>
+      <segment pronunciation="_ARABICKASRA_">
+        <state start="35" end="45"/>
+        <state start="45" end="65"/>
+        <state start="65" end="80"/>
+        <state start="80" end="90"/>
+        <state start="90" end="105"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERNOON_">
+        <state start="105" end="120"/>
+        <state start="120" end="145"/>
+        <state start="145" end="155"/>
+        <state start="155" end="160"/>
+        <state start="160" end="165"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERNOON_">
+        <state start="165" end="175"/>
+        <state start="175" end="210"/>
+        <state start="210" end="220"/>
+        <state start="220" end="230"/>
+        <state start="230" end="240"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="240" end="245"/>
+        <state start="245" end="250"/>
+        <state start="250" end="260"/>
+        <state start="260" end="300"/>
+        <state start="300" end="305"/>
+      </segment>
+    </token>
+    <token text=" " token_class="space" safetext="_SPACE_" silence_predicted="0" phrase_start="False" phrase_end="False"/>
+    <token text="ألحَمدَ" token_class="word" safetext="_ARABICLETTERALEFWITHHAMZAABOVE__ARABICLETTERLAM__ARABICLETTERHAH__ARABICFATHA__ARABICLETTERMEEM__ARABICLETTERDAL__ARABICFATHA_" vsm_d1="0.9108539746282931" vsm_d2="0.009742309227350976" vsm_d3="0.08224762455076667" vsm_d4="0.07541077435206517" vsm_d5="0.016554529030539167" vsm_d6="0.012693825743598602" vsm_d7="0.004511364707175627" vsm_d8="0.0057951474633733124" vsm_d9="-0.0022641056428019876" vsm_d10="-0.0006157922151396461" phrase_start="False" phrase_end="False">
+      <segment pronunciation="_ARABICLETTERALEFWITHHAMZAABOVE_">
+        <state start="305" end="310"/>
+        <state start="310" end="315"/>
+        <state start="315" end="325"/>
+        <state start="325" end="335"/>
+        <state start="335" end="345"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERLAM_">
+        <state start="345" end="355"/>
+        <state start="355" end="370"/>
+        <state start="370" end="380"/>
+        <state start="380" end="385"/>
+        <state start="385" end="395"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERHAH_">
+        <state start="395" end="415"/>
+        <state start="415" end="480"/>
+        <state start="480" end="515"/>
+        <state start="515" end="530"/>
+        <state start="530" end="540"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="540" end="545"/>
+        <state start="545" end="550"/>
+        <state start="550" end="560"/>
+        <state start="560" end="580"/>
+        <state start="580" end="595"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERMEEM_">
+        <state start="595" end="610"/>
+        <state start="610" end="640"/>
+        <state start="640" end="645"/>
+        <state start="645" end="650"/>
+        <state start="650" end="665"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERDAL_">
+        <state start="665" end="695"/>
+        <state start="695" end="710"/>
+        <state start="710" end="715"/>
+        <state start="715" end="735"/>
+        <state start="735" end="750"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="750" end="760"/>
+        <state start="760" end="770"/>
+        <state start="770" end="780"/>
+        <state start="780" end="820"/>
+        <state start="820" end="835"/>
+      </segment>
+    </token>
+    <token text=" " token_class="space" safetext="_SPACE_" silence_predicted="0" phrase_start="False" phrase_end="False"/>
+    <token text="لِللءهِ" token_class="word" safetext="_ARABICLETTERLAM__ARABICKASRA__ARABICLETTERLAM__ARABICLETTERLAM__ARABICLETTERHAMZA__ARABICLETTERHEH__ARABICKASRA_" vsm_d1="0.9108539746282931" vsm_d2="0.009742309227350976" vsm_d3="0.08224762455076667" vsm_d4="0.07541077435206517" vsm_d5="0.016554529030539167" vsm_d6="0.012693825743598602" vsm_d7="0.004511364707175627" vsm_d8="0.0057951474633733124" vsm_d9="-0.0022641056428019876" vsm_d10="-0.0006157922151396461" phrase_start="False" phrase_end="False">
+      <segment pronunciation="_ARABICLETTERLAM_">
+        <state start="835" end="840"/>
+        <state start="840" end="860"/>
+        <state start="860" end="875"/>
+        <state start="875" end="885"/>
+        <state start="885" end="895"/>
+      </segment>
+      <segment pronunciation="_ARABICKASRA_">
+        <state start="895" end="900"/>
+        <state start="900" end="925"/>
+        <state start="925" end="940"/>
+        <state start="940" end="950"/>
+        <state start="950" end="960"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERLAM_">
+        <state start="960" end="965"/>
+        <state start="965" end="1000"/>
+        <state start="1000" end="1010"/>
+        <state start="1010" end="1020"/>
+        <state start="1020" end="1030"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERLAM_">
+        <state start="1030" end="1040"/>
+        <state start="1040" end="1070"/>
+        <state start="1070" end="1085"/>
+        <state start="1085" end="1105"/>
+        <state start="1105" end="1120"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERHAMZA_">
+        <state start="1120" end="1180"/>
+        <state start="1180" end="1230"/>
+        <state start="1230" end="1245"/>
+        <state start="1245" end="1260"/>
+        <state start="1260" end="1275"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERHEH_">
+        <state start="1275" end="1280"/>
+        <state start="1280" end="1295"/>
+        <state start="1295" end="1315"/>
+        <state start="1315" end="1340"/>
+        <state start="1340" end="1345"/>
+      </segment>
+      <segment pronunciation="_ARABICKASRA_">
+        <state start="1345" end="1360"/>
+        <state start="1360" end="1390"/>
+        <state start="1390" end="1410"/>
+        <state start="1410" end="1425"/>
+        <state start="1425" end="1435"/>
+      </segment>
+    </token>
+    <token text=" " token_class="space" safetext="_SPACE_" silence_predicted="0" phrase_start="False" phrase_end="False"/>
+    <token text="نَحمَدُهُ" token_class="word" safetext="_ARABICLETTERNOON__ARABICFATHA__ARABICLETTERHAH__ARABICLETTERMEEM__ARABICFATHA__ARABICLETTERDAL__ARABICDAMMA__ARABICLETTERHEH__ARABICDAMMA_" vsm_d1="0.9108539746282931" vsm_d2="0.009742309227350976" vsm_d3="0.08224762455076667" vsm_d4="0.07541077435206517" vsm_d5="0.016554529030539167" vsm_d6="0.012693825743598602" vsm_d7="0.004511364707175627" vsm_d8="0.0057951474633733124" vsm_d9="-0.0022641056428019876" vsm_d10="-0.0006157922151396461" phrase_start="False" phrase_end="False">
+      <segment pronunciation="_ARABICLETTERNOON_">
+        <state start="1435" end="1450"/>
+        <state start="1450" end="1480"/>
+        <state start="1480" end="1495"/>
+        <state start="1495" end="1500"/>
+        <state start="1500" end="1505"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="1505" end="1510"/>
+        <state start="1510" end="1515"/>
+        <state start="1515" end="1530"/>
+        <state start="1530" end="1560"/>
+        <state start="1560" end="1570"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERHAH_">
+        <state start="1570" end="1590"/>
+        <state start="1590" end="1650"/>
+        <state start="1650" end="1680"/>
+        <state start="1680" end="1690"/>
+        <state start="1690" end="1710"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERMEEM_">
+        <state start="1710" end="1730"/>
+        <state start="1730" end="1755"/>
+        <state start="1755" end="1765"/>
+        <state start="1765" end="1770"/>
+        <state start="1770" end="1780"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="1780" end="1785"/>
+        <state start="1785" end="1800"/>
+        <state start="1800" end="1810"/>
+        <state start="1810" end="1840"/>
+        <state start="1840" end="1855"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERDAL_">
+        <state start="1855" end="1885"/>
+        <state start="1885" end="1890"/>
+        <state start="1890" end="1900"/>
+        <state start="1900" end="1910"/>
+        <state start="1910" end="1925"/>
+      </segment>
+      <segment pronunciation="_ARABICDAMMA_">
+        <state start="1925" end="1945"/>
+        <state start="1945" end="1975"/>
+        <state start="1975" end="1990"/>
+        <state start="1990" end="2005"/>
+        <state start="2005" end="2025"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERHEH_">
+        <state start="2025" end="2035"/>
+        <state start="2035" end="2040"/>
+        <state start="2040" end="2065"/>
+        <state start="2065" end="2085"/>
+        <state start="2085" end="2090"/>
+      </segment>
+      <segment pronunciation="_ARABICDAMMA_">
+        <state start="2090" end="2110"/>
+        <state start="2110" end="2140"/>
+        <state start="2140" end="2170"/>
+        <state start="2170" end="2180"/>
+        <state start="2180" end="2190"/>
+      </segment>
+    </token>
+    <token text=" " token_class="space" safetext="_SPACE_" silence_predicted="0" phrase_start="False" phrase_end="False"/>
+    <token text="وَنَستَعئنُهُ" token_class="word" safetext="_ARABICLETTERWAW__ARABICFATHA__ARABICLETTERNOON__ARABICFATHA__ARABICLETTERSEEN__ARABICLETTERTEH__ARABICFATHA__ARABICLETTERAIN__ARABICLETTERYEHWITHHAMZAABOVE__ARABICLETTERNOON__ARABICDAMMA__ARABICLETTERHEH__ARABICDAMMA_" vsm_d1="0.9108539746282931" vsm_d2="0.009742309227350976" vsm_d3="0.08224762455076667" vsm_d4="0.07541077435206517" vsm_d5="0.016554529030539167" vsm_d6="0.012693825743598602" vsm_d7="0.004511364707175627" vsm_d8="0.0057951474633733124" vsm_d9="-0.0022641056428019876" vsm_d10="-0.0006157922151396461" phrase_start="False" phrase_end="False">
+      <segment pronunciation="_ARABICLETTERWAW_">
+        <state start="2190" end="2205"/>
+        <state start="2205" end="2220"/>
+        <state start="2220" end="2250"/>
+        <state start="2250" end="2255"/>
+        <state start="2255" end="2260"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="2260" end="2270"/>
+        <state start="2270" end="2280"/>
+        <state start="2280" end="2315"/>
+        <state start="2315" end="2335"/>
+        <state start="2335" end="2350"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERNOON_">
+        <state start="2350" end="2355"/>
+        <state start="2355" end="2370"/>
+        <state start="2370" end="2385"/>
+        <state start="2385" end="2390"/>
+        <state start="2390" end="2400"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="2400" end="2405"/>
+        <state start="2405" end="2415"/>
+        <state start="2415" end="2425"/>
+        <state start="2425" end="2455"/>
+        <state start="2455" end="2465"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERSEEN_">
+        <state start="2465" end="2480"/>
+        <state start="2480" end="2535"/>
+        <state start="2535" end="2560"/>
+        <state start="2560" end="2565"/>
+        <state start="2565" end="2575"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERTEH_">
+        <state start="2575" end="2610"/>
+        <state start="2610" end="2620"/>
+        <state start="2620" end="2630"/>
+        <state start="2630" end="2645"/>
+        <state start="2645" end="2655"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="2655" end="2665"/>
+        <state start="2665" end="2670"/>
+        <state start="2670" end="2680"/>
+        <state start="2680" end="2705"/>
+        <state start="2705" end="2715"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERAIN_">
+        <state start="2715" end="2745"/>
+        <state start="2745" end="2795"/>
+        <state start="2795" end="2820"/>
+        <state start="2820" end="2835"/>
+        <state start="2835" end="2845"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERYEHWITHHAMZAABOVE_">
+        <state start="2845" end="2865"/>
+        <state start="2865" end="2915"/>
+        <state start="2915" end="2940"/>
+        <state start="2940" end="2945"/>
+        <state start="2945" end="2960"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERNOON_">
+        <state start="2960" end="2970"/>
+        <state start="2970" end="2985"/>
+        <state start="2985" end="3000"/>
+        <state start="3000" end="3005"/>
+        <state start="3005" end="3015"/>
+      </segment>
+      <segment pronunciation="_ARABICDAMMA_">
+        <state start="3015" end="3035"/>
+        <state start="3035" end="3070"/>
+        <state start="3070" end="3085"/>
+        <state start="3085" end="3110"/>
+        <state start="3110" end="3130"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERHEH_">
+        <state start="3130" end="3145"/>
+        <state start="3145" end="3155"/>
+        <state start="3155" end="3180"/>
+        <state start="3180" end="3205"/>
+        <state start="3205" end="3210"/>
+      </segment>
+      <segment pronunciation="_ARABICDAMMA_">
+        <state start="3210" end="3230"/>
+        <state start="3230" end="3260"/>
+        <state start="3260" end="3290"/>
+        <state start="3290" end="3300"/>
+        <state start="3300" end="3310"/>
+      </segment>
+    </token>
+    <token text=" " token_class="space" safetext="_SPACE_" silence_predicted="0" phrase_start="False" phrase_end="False"/>
+    <token text="وَنَستَغفِرُهُ" token_class="word" safetext="_ARABICLETTERWAW__ARABICFATHA__ARABICLETTERNOON__ARABICFATHA__ARABICLETTERSEEN__ARABICLETTERTEH__ARABICFATHA__ARABICLETTERGHAIN__ARABICLETTERFEH__ARABICKASRA__ARABICLETTERREH__ARABICDAMMA__ARABICLETTERHEH__ARABICDAMMA_" vsm_d1="0.9108539746282931" vsm_d2="0.009742309227350976" vsm_d3="0.08224762455076667" vsm_d4="0.07541077435206517" vsm_d5="0.016554529030539167" vsm_d6="0.012693825743598602" vsm_d7="0.004511364707175627" vsm_d8="0.0057951474633733124" vsm_d9="-0.0022641056428019876" vsm_d10="-0.0006157922151396461" phrase_start="False" phrase_end="False">
+      <segment pronunciation="_ARABICLETTERWAW_">
+        <state start="3310" end="3320"/>
+        <state start="3320" end="3335"/>
+        <state start="3335" end="3365"/>
+        <state start="3365" end="3370"/>
+        <state start="3370" end="3375"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="3375" end="3385"/>
+        <state start="3385" end="3395"/>
+        <state start="3395" end="3430"/>
+        <state start="3430" end="3450"/>
+        <state start="3450" end="3465"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERNOON_">
+        <state start="3465" end="3470"/>
+        <state start="3470" end="3485"/>
+        <state start="3485" end="3500"/>
+        <state start="3500" end="3505"/>
+        <state start="3505" end="3515"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="3515" end="3520"/>
+        <state start="3520" end="3530"/>
+        <state start="3530" end="3540"/>
+        <state start="3540" end="3570"/>
+        <state start="3570" end="3580"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERSEEN_">
+        <state start="3580" end="3595"/>
+        <state start="3595" end="3650"/>
+        <state start="3650" end="3675"/>
+        <state start="3675" end="3680"/>
+        <state start="3680" end="3690"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERTEH_">
+        <state start="3690" end="3725"/>
+        <state start="3725" end="3735"/>
+        <state start="3735" end="3750"/>
+        <state start="3750" end="3760"/>
+        <state start="3760" end="3770"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="3770" end="3775"/>
+        <state start="3775" end="3785"/>
+        <state start="3785" end="3795"/>
+        <state start="3795" end="3815"/>
+        <state start="3815" end="3830"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERGHAIN_">
+        <state start="3830" end="3840"/>
+        <state start="3840" end="3865"/>
+        <state start="3865" end="3875"/>
+        <state start="3875" end="3890"/>
+        <state start="3890" end="3915"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERFEH_">
+        <state start="3915" end="3935"/>
+        <state start="3935" end="4000"/>
+        <state start="4000" end="4025"/>
+        <state start="4025" end="4035"/>
+        <state start="4035" end="4040"/>
+      </segment>
+      <segment pronunciation="_ARABICKASRA_">
+        <state start="4040" end="4045"/>
+        <state start="4045" end="4065"/>
+        <state start="4065" end="4080"/>
+        <state start="4080" end="4090"/>
+        <state start="4090" end="4105"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERREH_">
+        <state start="4105" end="4120"/>
+        <state start="4120" end="4130"/>
+        <state start="4130" end="4140"/>
+        <state start="4140" end="4150"/>
+        <state start="4150" end="4170"/>
+      </segment>
+      <segment pronunciation="_ARABICDAMMA_">
+        <state start="4170" end="4200"/>
+        <state start="4200" end="4240"/>
+        <state start="4240" end="4260"/>
+        <state start="4260" end="4280"/>
+        <state start="4280" end="4300"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERHEH_">
+        <state start="4300" end="4315"/>
+        <state start="4315" end="4320"/>
+        <state start="4320" end="4345"/>
+        <state start="4345" end="4370"/>
+        <state start="4370" end="4375"/>
+      </segment>
+      <segment pronunciation="_ARABICDAMMA_">
+        <state start="4375" end="4395"/>
+        <state start="4395" end="4425"/>
+        <state start="4425" end="4455"/>
+        <state start="4455" end="4465"/>
+        <state start="4465" end="4475"/>
+      </segment>
+    </token>
+    <token text=" " token_class="space" safetext="_SPACE_" silence_predicted="0" phrase_start="False" phrase_end="False"/>
+    <token text="وَنَسأَلُهُ" token_class="word" safetext="_ARABICLETTERWAW__ARABICFATHA__ARABICLETTERNOON__ARABICFATHA__ARABICLETTERSEEN__ARABICLETTERALEFWITHHAMZAABOVE__ARABICFATHA__ARABICLETTERLAM__ARABICDAMMA__ARABICLETTERHEH__ARABICDAMMA_" vsm_d1="0.9108539746282931" vsm_d2="0.009742309227350976" vsm_d3="0.08224762455076667" vsm_d4="0.07541077435206517" vsm_d5="0.016554529030539167" vsm_d6="0.012693825743598602" vsm_d7="0.004511364707175627" vsm_d8="0.0057951474633733124" vsm_d9="-0.0022641056428019876" vsm_d10="-0.0006157922151396461" phrase_start="False" phrase_end="False">
+      <segment pronunciation="_ARABICLETTERWAW_">
+        <state start="4475" end="4490"/>
+        <state start="4490" end="4505"/>
+        <state start="4505" end="4535"/>
+        <state start="4535" end="4540"/>
+        <state start="4540" end="4545"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="4545" end="4555"/>
+        <state start="4555" end="4570"/>
+        <state start="4570" end="4605"/>
+        <state start="4605" end="4625"/>
+        <state start="4625" end="4640"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERNOON_">
+        <state start="4640" end="4650"/>
+        <state start="4650" end="4670"/>
+        <state start="4670" end="4685"/>
+        <state start="4685" end="4690"/>
+        <state start="4690" end="4700"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="4700" end="4705"/>
+        <state start="4705" end="4715"/>
+        <state start="4715" end="4725"/>
+        <state start="4725" end="4755"/>
+        <state start="4755" end="4770"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERSEEN_">
+        <state start="4770" end="4785"/>
+        <state start="4785" end="4840"/>
+        <state start="4840" end="4865"/>
+        <state start="4865" end="4875"/>
+        <state start="4875" end="4880"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERALEFWITHHAMZAABOVE_">
+        <state start="4880" end="4905"/>
+        <state start="4905" end="4920"/>
+        <state start="4920" end="4930"/>
+        <state start="4930" end="4950"/>
+        <state start="4950" end="4955"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="4955" end="4965"/>
+        <state start="4965" end="4980"/>
+        <state start="4980" end="4985"/>
+        <state start="4985" end="5010"/>
+        <state start="5010" end="5025"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERLAM_">
+        <state start="5025" end="5035"/>
+        <state start="5035" end="5045"/>
+        <state start="5045" end="5060"/>
+        <state start="5060" end="5070"/>
+        <state start="5070" end="5085"/>
+      </segment>
+      <segment pronunciation="_ARABICDAMMA_">
+        <state start="5085" end="5105"/>
+        <state start="5105" end="5140"/>
+        <state start="5140" end="5160"/>
+        <state start="5160" end="5180"/>
+        <state start="5180" end="5200"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERHEH_">
+        <state start="5200" end="5210"/>
+        <state start="5210" end="5220"/>
+        <state start="5220" end="5240"/>
+        <state start="5240" end="5265"/>
+        <state start="5265" end="5270"/>
+      </segment>
+      <segment pronunciation="_ARABICDAMMA_">
+        <state start="5270" end="5285"/>
+        <state start="5285" end="5310"/>
+        <state start="5310" end="5325"/>
+        <state start="5325" end="5335"/>
+        <state start="5335" end="5345"/>
+      </segment>
+    </token>
+    <token text=" " token_class="space" safetext="_SPACE_" silence_predicted="0" phrase_start="False" phrase_end="False"/>
+    <token text="ألخَيرَ" token_class="word" safetext="_ARABICLETTERALEFWITHHAMZAABOVE__ARABICLETTERLAM__ARABICLETTERKHAH__ARABICFATHA__ARABICLETTERYEH__ARABICLETTERREH__ARABICFATHA_" vsm_d1="0.9108539746282931" vsm_d2="0.009742309227350976" vsm_d3="0.08224762455076667" vsm_d4="0.07541077435206517" vsm_d5="0.016554529030539167" vsm_d6="0.012693825743598602" vsm_d7="0.004511364707175627" vsm_d8="0.0057951474633733124" vsm_d9="-0.0022641056428019876" vsm_d10="-0.0006157922151396461" phrase_start="False" phrase_end="False">
+      <segment pronunciation="_ARABICLETTERALEFWITHHAMZAABOVE_">
+        <state start="5345" end="5360"/>
+        <state start="5360" end="5375"/>
+        <state start="5375" end="5385"/>
+        <state start="5385" end="5395"/>
+        <state start="5395" end="5405"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERLAM_">
+        <state start="5405" end="5420"/>
+        <state start="5420" end="5440"/>
+        <state start="5440" end="5450"/>
+        <state start="5450" end="5455"/>
+        <state start="5455" end="5465"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERKHAH_">
+        <state start="5465" end="5485"/>
+        <state start="5485" end="5540"/>
+        <state start="5540" end="5575"/>
+        <state start="5575" end="5585"/>
+        <state start="5585" end="5590"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="5590" end="5605"/>
+        <state start="5605" end="5610"/>
+        <state start="5610" end="5620"/>
+        <state start="5620" end="5645"/>
+        <state start="5645" end="5655"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERYEH_">
+        <state start="5655" end="5685"/>
+        <state start="5685" end="5710"/>
+        <state start="5710" end="5725"/>
+        <state start="5725" end="5740"/>
+        <state start="5740" end="5750"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERREH_">
+        <state start="5750" end="5760"/>
+        <state start="5760" end="5780"/>
+        <state start="5780" end="5785"/>
+        <state start="5785" end="5790"/>
+        <state start="5790" end="5805"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="5805" end="5825"/>
+        <state start="5825" end="5840"/>
+        <state start="5840" end="5850"/>
+        <state start="5850" end="5885"/>
+        <state start="5885" end="5905"/>
+      </segment>
+    </token>
+    <token text=" " token_class="space" safetext="_SPACE_" silence_predicted="0" phrase_start="False" phrase_end="False"/>
+    <token text="كُللهُ" token_class="word" safetext="_ARABICLETTERKAF__ARABICDAMMA__ARABICLETTERLAM__ARABICLETTERLAM__ARABICLETTERHEH__ARABICDAMMA_" vsm_d1="0.9108539746282931" vsm_d2="0.009742309227350976" vsm_d3="0.08224762455076667" vsm_d4="0.07541077435206517" vsm_d5="0.016554529030539167" vsm_d6="0.012693825743598602" vsm_d7="0.004511364707175627" vsm_d8="0.0057951474633733124" vsm_d9="-0.0022641056428019876" vsm_d10="-0.0006157922151396461" phrase_start="False" phrase_end="False">
+      <segment pronunciation="_ARABICLETTERKAF_">
+        <state start="5905" end="5955"/>
+        <state start="5955" end="5960"/>
+        <state start="5960" end="5995"/>
+        <state start="5995" end="6000"/>
+        <state start="6000" end="6015"/>
+      </segment>
+      <segment pronunciation="_ARABICDAMMA_">
+        <state start="6015" end="6025"/>
+        <state start="6025" end="6040"/>
+        <state start="6040" end="6050"/>
+        <state start="6050" end="6060"/>
+        <state start="6060" end="6070"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERLAM_">
+        <state start="6070" end="6075"/>
+        <state start="6075" end="6095"/>
+        <state start="6095" end="6105"/>
+        <state start="6105" end="6110"/>
+        <state start="6110" end="6120"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERLAM_">
+        <state start="6120" end="6135"/>
+        <state start="6135" end="6170"/>
+        <state start="6170" end="6185"/>
+        <state start="6185" end="6200"/>
+        <state start="6200" end="6215"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERHEH_">
+        <state start="6215" end="6225"/>
+        <state start="6225" end="6240"/>
+        <state start="6240" end="6265"/>
+        <state start="6265" end="6290"/>
+        <state start="6290" end="6295"/>
+      </segment>
+      <segment pronunciation="_ARABICDAMMA_">
+        <state start="6295" end="6315"/>
+        <state start="6315" end="6345"/>
+        <state start="6345" end="6375"/>
+        <state start="6375" end="6385"/>
+        <state start="6385" end="6395"/>
+      </segment>
+    </token>
+    <token text=" " token_class="space" safetext="_SPACE_" silence_predicted="0" phrase_start="False" phrase_end="False"/>
+    <token text="وَنَعؤذُ" token_class="word" safetext="_ARABICLETTERWAW__ARABICFATHA__ARABICLETTERNOON__ARABICFATHA__ARABICLETTERAIN__ARABICLETTERWAWWITHHAMZAABOVE__ARABICLETTERTHAL__ARABICDAMMA_" vsm_d1="0.9108539746282931" vsm_d2="0.009742309227350976" vsm_d3="0.08224762455076667" vsm_d4="0.07541077435206517" vsm_d5="0.016554529030539167" vsm_d6="0.012693825743598602" vsm_d7="0.004511364707175627" vsm_d8="0.0057951474633733124" vsm_d9="-0.0022641056428019876" vsm_d10="-0.0006157922151396461" phrase_start="False" phrase_end="False">
+      <segment pronunciation="_ARABICLETTERWAW_">
+        <state start="6395" end="6405"/>
+        <state start="6405" end="6420"/>
+        <state start="6420" end="6455"/>
+        <state start="6455" end="6460"/>
+        <state start="6460" end="6465"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="6465" end="6475"/>
+        <state start="6475" end="6490"/>
+        <state start="6490" end="6525"/>
+        <state start="6525" end="6550"/>
+        <state start="6550" end="6565"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERNOON_">
+        <state start="6565" end="6575"/>
+        <state start="6575" end="6600"/>
+        <state start="6600" end="6615"/>
+        <state start="6615" end="6620"/>
+        <state start="6620" end="6630"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="6630" end="6640"/>
+        <state start="6640" end="6655"/>
+        <state start="6655" end="6670"/>
+        <state start="6670" end="6695"/>
+        <state start="6695" end="6710"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERAIN_">
+        <state start="6710" end="6745"/>
+        <state start="6745" end="6800"/>
+        <state start="6800" end="6825"/>
+        <state start="6825" end="6840"/>
+        <state start="6840" end="6850"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERWAWWITHHAMZAABOVE_">
+        <state start="6850" end="6870"/>
+        <state start="6870" end="6920"/>
+        <state start="6920" end="6940"/>
+        <state start="6940" end="6945"/>
+        <state start="6945" end="6955"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERTHAL_">
+        <state start="6955" end="6985"/>
+        <state start="6985" end="7015"/>
+        <state start="7015" end="7050"/>
+        <state start="7050" end="7060"/>
+        <state start="7060" end="7070"/>
+      </segment>
+      <segment pronunciation="_ARABICDAMMA_">
+        <state start="7070" end="7080"/>
+        <state start="7080" end="7120"/>
+        <state start="7120" end="7140"/>
+        <state start="7140" end="7160"/>
+        <state start="7160" end="7170"/>
+      </segment>
+    </token>
+    <token text=" " token_class="space" safetext="_SPACE_" silence_predicted="0" phrase_start="False" phrase_end="False"/>
+    <token text="بِهِ" token_class="word" safetext="_ARABICLETTERBEH__ARABICKASRA__ARABICLETTERHEH__ARABICKASRA_" vsm_d1="1.0352678787013416" vsm_d2="-0.03595838262134643" vsm_d3="-0.1384553446604544" vsm_d4="0.007677826570178653" vsm_d5="0.010772632702159834" vsm_d6="0.1378228175693564" vsm_d7="-0.04303127014882231" vsm_d8="-0.014440057842559015" vsm_d9="-0.01740761801876299" vsm_d10="0.0036576549923134465" phrase_start="False" phrase_end="False">
+      <segment pronunciation="_ARABICLETTERBEH_">
+        <state start="7170" end="7185"/>
+        <state start="7185" end="7225"/>
+        <state start="7225" end="7245"/>
+        <state start="7245" end="7250"/>
+        <state start="7250" end="7255"/>
+      </segment>
+      <segment pronunciation="_ARABICKASRA_">
+        <state start="7255" end="7270"/>
+        <state start="7270" end="7310"/>
+        <state start="7310" end="7325"/>
+        <state start="7325" end="7340"/>
+        <state start="7340" end="7350"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERHEH_">
+        <state start="7350" end="7365"/>
+        <state start="7365" end="7380"/>
+        <state start="7380" end="7395"/>
+        <state start="7395" end="7420"/>
+        <state start="7420" end="7425"/>
+      </segment>
+      <segment pronunciation="_ARABICKASRA_">
+        <state start="7425" end="7440"/>
+        <state start="7440" end="7490"/>
+        <state start="7490" end="7505"/>
+        <state start="7505" end="7520"/>
+        <state start="7520" end="7530"/>
+      </segment>
+    </token>
+    <token text=" " token_class="space" safetext="_SPACE_" silence_predicted="0" phrase_start="False" phrase_end="False"/>
+    <token text="مِن" token_class="word" safetext="_ARABICLETTERMEEM__ARABICKASRA__ARABICLETTERNOON_" vsm_d1="1.1198156391803538" vsm_d2="-0.09593329549623197" vsm_d3="-0.06543171766925426" vsm_d4="-0.0033252487017541577" vsm_d5="-0.036419211400775545" vsm_d6="-0.020560133016877244" vsm_d7="-0.009788015827997328" vsm_d8="-0.010668445540510753" vsm_d9="-0.006512465595588652" vsm_d10="-0.005172728127020153" phrase_start="False" phrase_end="False">
+      <segment pronunciation="_ARABICLETTERMEEM_">
+        <state start="7530" end="7555"/>
+        <state start="7555" end="7585"/>
+        <state start="7585" end="7595"/>
+        <state start="7595" end="7600"/>
+        <state start="7600" end="7610"/>
+      </segment>
+      <segment pronunciation="_ARABICKASRA_">
+        <state start="7610" end="7615"/>
+        <state start="7615" end="7645"/>
+        <state start="7645" end="7660"/>
+        <state start="7660" end="7670"/>
+        <state start="7670" end="7680"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERNOON_">
+        <state start="7680" end="7685"/>
+        <state start="7685" end="7705"/>
+        <state start="7705" end="7710"/>
+        <state start="7710" end="7715"/>
+        <state start="7715" end="7730"/>
+      </segment>
+    </token>
+    <token text=" " token_class="space" safetext="_SPACE_" silence_predicted="0" phrase_start="False" phrase_end="False"/>
+    <token text="شُرؤرِ" token_class="word" safetext="_ARABICLETTERSHEEN__ARABICDAMMA__ARABICLETTERREH__ARABICLETTERWAWWITHHAMZAABOVE__ARABICLETTERREH__ARABICKASRA_" vsm_d1="0.9108539746282931" vsm_d2="0.009742309227350976" vsm_d3="0.08224762455076667" vsm_d4="0.07541077435206517" vsm_d5="0.016554529030539167" vsm_d6="0.012693825743598602" vsm_d7="0.004511364707175627" vsm_d8="0.0057951474633733124" vsm_d9="-0.0022641056428019876" vsm_d10="-0.0006157922151396461" phrase_start="False" phrase_end="False">
+      <segment pronunciation="_ARABICLETTERSHEEN_">
+        <state start="7730" end="7805"/>
+        <state start="7805" end="7830"/>
+        <state start="7830" end="7845"/>
+        <state start="7845" end="7855"/>
+        <state start="7855" end="7865"/>
+      </segment>
+      <segment pronunciation="_ARABICDAMMA_">
+        <state start="7865" end="7890"/>
+        <state start="7890" end="7910"/>
+        <state start="7910" end="7930"/>
+        <state start="7930" end="7935"/>
+        <state start="7935" end="7945"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERREH_">
+        <state start="7945" end="7955"/>
+        <state start="7955" end="7960"/>
+        <state start="7960" end="7970"/>
+        <state start="7970" end="7975"/>
+        <state start="7975" end="7990"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERWAWWITHHAMZAABOVE_">
+        <state start="7990" end="8035"/>
+        <state start="8035" end="8105"/>
+        <state start="8105" end="8135"/>
+        <state start="8135" end="8155"/>
+        <state start="8155" end="8165"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERREH_">
+        <state start="8165" end="8180"/>
+        <state start="8180" end="8185"/>
+        <state start="8185" end="8190"/>
+        <state start="8190" end="8200"/>
+        <state start="8200" end="8215"/>
+      </segment>
+      <segment pronunciation="_ARABICKASRA_">
+        <state start="8215" end="8235"/>
+        <state start="8235" end="8265"/>
+        <state start="8265" end="8290"/>
+        <state start="8290" end="8310"/>
+        <state start="8310" end="8320"/>
+      </segment>
+    </token>
+    <token text=" " token_class="space" safetext="_SPACE_" silence_predicted="0" phrase_start="False" phrase_end="False"/>
+    <token text="أَنفُسِنء" token_class="word" safetext="_ARABICLETTERALEFWITHHAMZAABOVE__ARABICFATHA__ARABICLETTERNOON__ARABICLETTERFEH__ARABICDAMMA__ARABICLETTERSEEN__ARABICKASRA__ARABICLETTERNOON__ARABICLETTERHAMZA_" vsm_d1="0.9108539746282931" vsm_d2="0.009742309227350976" vsm_d3="0.08224762455076667" vsm_d4="0.07541077435206517" vsm_d5="0.016554529030539167" vsm_d6="0.012693825743598602" vsm_d7="0.004511364707175627" vsm_d8="0.0057951474633733124" vsm_d9="-0.0022641056428019876" vsm_d10="-0.0006157922151396461" phrase_start="False" phrase_end="False">
+      <segment pronunciation="_ARABICLETTERALEFWITHHAMZAABOVE_">
+        <state start="8320" end="8345"/>
+        <state start="8345" end="8360"/>
+        <state start="8360" end="8380"/>
+        <state start="8380" end="8400"/>
+        <state start="8400" end="8405"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="8405" end="8415"/>
+        <state start="8415" end="8430"/>
+        <state start="8430" end="8445"/>
+        <state start="8445" end="8465"/>
+        <state start="8465" end="8480"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERNOON_">
+        <state start="8480" end="8485"/>
+        <state start="8485" end="8510"/>
+        <state start="8510" end="8520"/>
+        <state start="8520" end="8525"/>
+        <state start="8525" end="8535"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERFEH_">
+        <state start="8535" end="8555"/>
+        <state start="8555" end="8620"/>
+        <state start="8620" end="8645"/>
+        <state start="8645" end="8655"/>
+        <state start="8655" end="8665"/>
+      </segment>
+      <segment pronunciation="_ARABICDAMMA_">
+        <state start="8665" end="8680"/>
+        <state start="8680" end="8705"/>
+        <state start="8705" end="8715"/>
+        <state start="8715" end="8730"/>
+        <state start="8730" end="8740"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERSEEN_">
+        <state start="8740" end="8760"/>
+        <state start="8760" end="8825"/>
+        <state start="8825" end="8855"/>
+        <state start="8855" end="8865"/>
+        <state start="8865" end="8870"/>
+      </segment>
+      <segment pronunciation="_ARABICKASRA_">
+        <state start="8870" end="8885"/>
+        <state start="8885" end="8915"/>
+        <state start="8915" end="8935"/>
+        <state start="8935" end="8945"/>
+        <state start="8945" end="8955"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERNOON_">
+        <state start="8955" end="8970"/>
+        <state start="8970" end="9005"/>
+        <state start="9005" end="9020"/>
+        <state start="9020" end="9035"/>
+        <state start="9035" end="9050"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERHAMZA_">
+        <state start="9050" end="9110"/>
+        <state start="9110" end="9155"/>
+        <state start="9155" end="9180"/>
+        <state start="9180" end="9195"/>
+        <state start="9195" end="9210"/>
+      </segment>
+    </token>
+    <token text=" " token_class="space" safetext="_SPACE_" silence_predicted="0" phrase_start="False" phrase_end="False"/>
+    <token text="وَسَييِأءتِن" token_class="word" safetext="_ARABICLETTERWAW__ARABICFATHA__ARABICLETTERSEEN__ARABICFATHA__ARABICLETTERYEH__ARABICLETTERYEH__ARABICKASRA__ARABICLETTERALEFWITHHAMZAABOVE__ARABICLETTERHAMZA__ARABICLETTERTEH__ARABICKASRA__ARABICLETTERNOON_" vsm_d1="0.9108539746282931" vsm_d2="0.009742309227350976" vsm_d3="0.08224762455076667" vsm_d4="0.07541077435206517" vsm_d5="0.016554529030539167" vsm_d6="0.012693825743598602" vsm_d7="0.004511364707175627" vsm_d8="0.0057951474633733124" vsm_d9="-0.0022641056428019876" vsm_d10="-0.0006157922151396461" phrase_start="False" phrase_end="False">
+      <segment pronunciation="_ARABICLETTERWAW_">
+        <state start="9210" end="9220"/>
+        <state start="9220" end="9235"/>
+        <state start="9235" end="9270"/>
+        <state start="9270" end="9275"/>
+        <state start="9275" end="9280"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="9280" end="9290"/>
+        <state start="9290" end="9295"/>
+        <state start="9295" end="9325"/>
+        <state start="9325" end="9345"/>
+        <state start="9345" end="9360"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERSEEN_">
+        <state start="9360" end="9375"/>
+        <state start="9375" end="9435"/>
+        <state start="9435" end="9460"/>
+        <state start="9460" end="9465"/>
+        <state start="9465" end="9470"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="9470" end="9480"/>
+        <state start="9480" end="9485"/>
+        <state start="9485" end="9490"/>
+        <state start="9490" end="9510"/>
+        <state start="9510" end="9520"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERYEH_">
+        <state start="9520" end="9565"/>
+        <state start="9565" end="9590"/>
+        <state start="9590" end="9600"/>
+        <state start="9600" end="9620"/>
+        <state start="9620" end="9630"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERYEH_">
+        <state start="9630" end="9665"/>
+        <state start="9665" end="9690"/>
+        <state start="9690" end="9705"/>
+        <state start="9705" end="9720"/>
+        <state start="9720" end="9730"/>
+      </segment>
+      <segment pronunciation="_ARABICKASRA_">
+        <state start="9730" end="9740"/>
+        <state start="9740" end="9765"/>
+        <state start="9765" end="9780"/>
+        <state start="9780" end="9785"/>
+        <state start="9785" end="9795"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERALEFWITHHAMZAABOVE_">
+        <state start="9795" end="9815"/>
+        <state start="9815" end="9840"/>
+        <state start="9840" end="9845"/>
+        <state start="9845" end="9865"/>
+        <state start="9865" end="9880"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERHAMZA_">
+        <state start="9880" end="9940"/>
+        <state start="9940" end="9985"/>
+        <state start="9985" end="9995"/>
+        <state start="9995" end="10005"/>
+        <state start="10005" end="10020"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERTEH_">
+        <state start="10020" end="10055"/>
+        <state start="10055" end="10065"/>
+        <state start="10065" end="10080"/>
+        <state start="10080" end="10105"/>
+        <state start="10105" end="10120"/>
+      </segment>
+      <segment pronunciation="_ARABICKASRA_">
+        <state start="10120" end="10125"/>
+        <state start="10125" end="10145"/>
+        <state start="10145" end="10160"/>
+        <state start="10160" end="10170"/>
+        <state start="10170" end="10185"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERNOON_">
+        <state start="10185" end="10200"/>
+        <state start="10200" end="10220"/>
+        <state start="10220" end="10230"/>
+        <state start="10230" end="10240"/>
+        <state start="10240" end="10250"/>
+      </segment>
+    </token>
+    <token text=" " token_class="space" safetext="_SPACE_" silence_predicted="0" phrase_start="False" phrase_end="False"/>
+    <token text="أَعمءلِنء" token_class="word" safetext="_ARABICLETTERALEFWITHHAMZAABOVE__ARABICFATHA__ARABICLETTERAIN__ARABICLETTERMEEM__ARABICLETTERHAMZA__ARABICLETTERLAM__ARABICKASRA__ARABICLETTERNOON__ARABICLETTERHAMZA_" vsm_d1="0.9108539746282931" vsm_d2="0.009742309227350976" vsm_d3="0.08224762455076667" vsm_d4="0.07541077435206517" vsm_d5="0.016554529030539167" vsm_d6="0.012693825743598602" vsm_d7="0.004511364707175627" vsm_d8="0.0057951474633733124" vsm_d9="-0.0022641056428019876" vsm_d10="-0.0006157922151396461" phrase_start="False" phrase_end="False">
+      <segment pronunciation="_ARABICLETTERALEFWITHHAMZAABOVE_">
+        <state start="10250" end="10270"/>
+        <state start="10270" end="10305"/>
+        <state start="10305" end="10320"/>
+        <state start="10320" end="10335"/>
+        <state start="10335" end="10345"/>
+      </segment>
+      <segment pronunciation="_ARABICFATHA_">
+        <state start="10345" end="10355"/>
+        <state start="10355" end="10360"/>
+        <state start="10360" end="10370"/>
+        <state start="10370" end="10380"/>
+        <state start="10380" end="10395"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERAIN_">
+        <state start="10395" end="10430"/>
+        <state start="10430" end="10495"/>
+        <state start="10495" end="10515"/>
+        <state start="10515" end="10525"/>
+        <state start="10525" end="10540"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERMEEM_">
+        <state start="10540" end="10565"/>
+        <state start="10565" end="10590"/>
+        <state start="10590" end="10595"/>
+        <state start="10595" end="10600"/>
+        <state start="10600" end="10615"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERHAMZA_">
+        <state start="10615" end="10665"/>
+        <state start="10665" end="10720"/>
+        <state start="10720" end="10730"/>
+        <state start="10730" end="10740"/>
+        <state start="10740" end="10750"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERLAM_">
+        <state start="10750" end="10760"/>
+        <state start="10760" end="10785"/>
+        <state start="10785" end="10800"/>
+        <state start="10800" end="10810"/>
+        <state start="10810" end="10820"/>
+      </segment>
+      <segment pronunciation="_ARABICKASRA_">
+        <state start="10820" end="10830"/>
+        <state start="10830" end="10865"/>
+        <state start="10865" end="10885"/>
+        <state start="10885" end="10900"/>
+        <state start="10900" end="10915"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERNOON_">
+        <state start="10915" end="10930"/>
+        <state start="10930" end="10955"/>
+        <state start="10955" end="10970"/>
+        <state start="10970" end="10995"/>
+        <state start="10995" end="11020"/>
+      </segment>
+      <segment pronunciation="_ARABICLETTERHAMZA_">
+        <state start="11020" end="11085"/>
+        <state start="11085" end="11090"/>
+        <state start="11090" end="11100"/>
+        <state start="11100" end="11105"/>
+        <state start="11105" end="11115"/>
+      </segment>
+    </token>
+    <token text="_END_" token_class="_END_" safetext="_END_" phrase_start="False" phrase_end="True"/>
+  </phrase>
+</utt>
